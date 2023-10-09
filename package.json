@@ -4,7 +4,7 @@
 "description": "Y",
 "main": "runner.js",
 "directories": {
-"lib": "lib"
+"lib": "lib" 
 },
 "dependencies": {
     "semver-utils": "1.1.4",
