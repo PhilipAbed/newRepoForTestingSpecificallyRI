@@ -1,0 +1,44 @@
+{
+"name": "MARJAN",
+"version": "1.0.0",
+"description": "Y",
+"main": "runner.js",
+"directories": {
+"lib": "lib"
+},
+"dependencies": {
+    "semver-utils": "1.1.4",
+    "shlex": "2.1.2",
+    "simple-git": "3.16.0",
+    "slugify": "1.6.5",
+    "source-map-support": "0.5.21",
+    "traverse": "0.6.7",
+    "tslib": "2.5.0",
+    "ImaginaryPackage": "1.2.3",
+    "ImaginaryPackage2": "1.1.1",
+    "upath": "2.0.1",
+    "url-join": "4.0.1",
+    "validate-npm-package-name": "5.0.0",
+    "xmldoc": "1.2.0",
+    "zod": "3.20.2"
+},
+"scripts": {
+"start": "node runner",
+"test": "supervisor runner"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/Zero-YT7/BaseNew-ZeroYT7"
+},
+"keywords": [
+"Jangan-Lupa-Subscribe",
+"ZeroYT7",
+"BaseNew-ZeroYT7"
+],
+"author": "ZeroYT7",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/Zero-YT7/BaseNew-ZeroYT7"
+},
+"homepage": "https://github.com/Zero-YT7"
+}
