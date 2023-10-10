@@ -7,7 +7,7 @@
 "lib": "lib" 
 },
 "dependencies": {
-    "semver-utils": "1.1.4",
+    "semver-utils": "1.1.4", 
     "shlex": "2.1.2",
     "simple-git": "3.16.0",
     "slugify": "1.6.5",
