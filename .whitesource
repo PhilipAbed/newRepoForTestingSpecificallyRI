@@ -29,7 +29,7 @@
     "workflowRules": {
       "enabled": true
     },
-    "enabledManagers": ["dockerfile"],
+    "enabledManagers": ["maven"],
     "enableRenovate": true
   },
    "imageSettings":{
