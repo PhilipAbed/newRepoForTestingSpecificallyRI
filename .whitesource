@@ -28,7 +28,8 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
+    },
+    "enabledManagers": ["dockerfile"]
   },
    "imageSettings":{
        "imageTracing":{
